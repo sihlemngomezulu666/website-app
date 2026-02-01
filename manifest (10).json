@@ -1,0 +1,43 @@
+{
+  "background_color": "#3d1e1e",
+  "description": "Two children. One wild time.\n",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "KnowYourCandidatesMzansi",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "KnowYourCandidatesMzansi",
+  "start_url": "/",
+  "theme_color": "#216c5c",
+  "icons": [
+    {
+      "src": "https://ssl.gstatic.com/atari/images/public/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/sitesv/APaQ0SQPxQnFB-sDnSZgtGlxiHwcuuPOWr-PGaTbdAahPfIZw035XCZCbbuDKThcrynPgFwNpeSx_hEDXak4hyhJX5PoVCeymhOnzBcGw8l2zUyZXF4X_vI9Md7gBrDtmz2teqr7FJ0EcuSeJu4AUutACiSDAzXRZsmpKfXAM_JYu7bURmrBfpqFJmcscmKBIGuDyC9css707t9WbIPwXYxIen9iRa91btGtQZk0=w1280",
+      "type": "image/jpeg",
+      "sizes": "1280x856",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": true,
+      "width": 1280,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "lang": "en",
+  "categories": [
+    "politics"
+  ]
+}
