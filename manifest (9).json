@@ -1,0 +1,52 @@
+{
+  "background_color": "#ffffff",
+  "description": "Two children. One wild time.\n",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Parents. Again.",
+  "orientation": "any",
+  "scope": "https://www.knowyourcandidatesmzansi.com/",
+  "short_name": "Parents. Again.",
+  "start_url": "https://www.knowyourcandidatesmzansi.com/home",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://ssl.gstatic.com/atari/images/public/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/sitesv/APaQ0STQ0Mq9ndQGyLgEVNzOrDfMSvD8ZFgedoiBdVMjVGaZOqo1IjtAV3SyjzIlZbTDxi21nHVXbMBtArn-CcEMvX0ZMYXF8pxOiQ3zh-_GP3AmlYCGGwPg9UFNlVITh66Dp7UwxoR5nywESoI7vqfEaX2RDgDB9yH9Yo8vOlDeRb_aSpAWsKYwkpTncPAPf1zQCYvcc7x6V-mXeqtnSw9uRChV2JuWVC4bEYWC=w1280",
+      "type": "image/jpeg",
+      "sizes": "1280x856",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": true,
+      "width": 1280,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "lang": "en",
+  "shortcuts": [
+    {
+      "name": "Candidate Search",
+      "url": "https://www.knowyourcandidatesmzansi.com/family-photos",
+      "description": "Search For the Best Candidate For A Better Tomorrow"
+    }
+  ],
+  "categories": [
+    "government",
+    "news",
+    "politics"
+  ]
+}
